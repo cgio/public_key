@@ -3,7 +3,9 @@
 ### Public key for MS communications
 
 RSA, 4096, AES-256
+
 Fingerprint: 901F ACAB 5736 D352 A562 BEAA 376E E2BB C039 E871
+
 Created: 2018-10-02
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
